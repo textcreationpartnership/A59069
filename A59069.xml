@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acrostick upon the name of Mrs Elizabeth Ball</title>
+            <author>Seguin, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59069</idno>
+            <idno type="STC">Wing S2413B</idno>
+            <idno type="STC">ESTC R219083</idno>
+            <idno type="EEBO-CITATION">99830611</idno>
+            <idno type="PROQUEST">99830611</idno>
+            <idno type="VID">35064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59069)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35064)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2077:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acrostick upon the name of Mrs Elizabeth Ball</title>
+                  <author>Seguin, James.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: James Seguin.</note>
+                  <note>Date of publication conjectured by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Acrostics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="acrostic_poem">
+            <pb facs="tcp:35064:1"/>
+            <!-- PDF PAGE 28 -->
+            <head>AN ACROSTICK Upon the Name of M<hi rend="sup">rs</hi> ELIZABETH BALL.</head>
+            <lg>
+               <l>
+                  <hi>E</hi>ven as the Dew within a Roſe,</l>
+               <l>
+                  <hi>L</hi>ove captivates poor me, and ſhowes</l>
+               <l>
+                  <hi>I</hi>n Charms of Beauty Fetters ly,</l>
+               <l>
+                  <hi>S</hi>ent from thy comely Face, and Eye,</l>
+               <l>
+                  <hi>A</hi>ll twiſted round my bleeding Heart,</l>
+               <l>
+                  <hi>B</hi>ound faſt with Love, in every Part.</l>
+               <l>
+                  <hi>'E</hi>re thou paſs Sentence on my Death,</l>
+               <l>
+                  <hi>T</hi>ake pity on me, and bequeath</l>
+               <l>
+                  <hi>H</hi>ealth by a ſingle Smile, that I</l>
+               <l>
+                  <hi>B</hi>e not ſo ſoon compell'd to Die.</l>
+               <l>
+                  <hi>A</hi>ll that I beg at preſent's this,</l>
+               <l>
+                  <hi>L</hi>et Love preſent me with a Kiſs;</l>
+               <l>
+                  <hi>L</hi>eſt not obtaining my deſire,</l>
+               <l>
+                  <hi>My Life into your breaſt expire.</hi>
+               </l>
+               <closer>
+                  <signed>JAMES SEG<g ref="char:V">Ʋ</g>IN.</signed>
+               </closer>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>Then let not Beauty make you proud,</l>
+               <l>My Paſſion to deſpiſe;</l>
+               <l>Nor bluſhing tincture of your Blood,</l>
+               <l>Nor ſweetneſs of your Eyes:</l>
+               <l>To Age, and Time, you muſt reſign,</l>
+               <l>What Nature fondly lent;</l>
+               <l>And you ſhall wiſh you had been mine,</l>
+               <l>And die, for diſcontent.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:35064:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:35064:2"/>
+            <!-- PDF PAGE 29 -->
+            <head>TO M<hi rend="sup">rs</hi> ELIZABETH BALL.</head>
+            <lg>
+               <l>FOR Heaven's ſake, what d' you mean to do?</l>
+               <l>Keep me, or let me go, one of the two;</l>
+               <l>Youth and warm hours let me not idly loſe,</l>
+               <l>The little Time that Love does chuſe;</l>
+               <l>If always here I muſt not ſtay,</l>
+               <l>Let me be gone, whileſt yet 'tis day;</l>
+               <l>Leſt I faint, and benighted loſe my way.</l>
+            </lg>
+            <lg>
+               <l>'Tis diſmal, One ſo long to Love</l>
+               <l>In vain; till to Love more as vain muſt prove:</l>
+               <l>To hunt ſo long on nimble prey, till we</l>
+               <l>Too weary to make others be;</l>
+               <l>Alas, 'tis folly to remain,</l>
+               <l>And waſte our Army thus in vain,</l>
+               <l>Before a City which will ne're be ta'ne.</l>
+            </lg>
+            <lg>
+               <l>At ſeveral hopes wiſely to fly,</l>
+               <l>Ought not to be eſteem'd Inconſtancy;</l>
+               <l>'Tis more Inconſtant always to purſue</l>
+               <l>A thing that always flies from you;</l>
+               <l>For that at laſt may meet a bound,</l>
+               <l>But no end can to this be found,</l>
+               <l>'Tis nought but a perpetual fruitleſs Round.</l>
+            </lg>
+            <lg>
+               <l>When it does Hardneſs meet and Pride,</l>
+               <l>My Love does then rebound t' another ſide;</l>
+               <l>But if ought that's ſoft and yielding hit;</l>
+               <l>It lodges and ſtays in it.</l>
+               <l>Whatever 'tis ſhall firſt love me,</l>
+               <l>That it my Heaven may truly be,</l>
+               <l>I ſhall be ſure to giv't Eternitie.</l>
+            </lg>
+            <pb n="2" facs="tcp:35064:3"/>
+            <!-- PDF PAGE 30 -->
+            <lg>
+               <l>Go bid the Needle his dear <hi>North</hi> forſake,</l>
+               <l>To which with trembling rev'erence it does bend;</l>
+               <l>Go bid th'Stones a journey upwards make;</l>
+               <l>Go bid th' ambitious Flame no more aſcend:</l>
+               <l>And when theſe falſe to their old motions prove,</l>
+               <l>Then ſhall I ceaſe <hi>Thee, Thee alone</hi> to <hi>Love.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The faſt-link'd Chain of Everlaſting Fate</l>
+               <l>Does nothing tye more ſtrong, than <hi>Me</hi> to <hi>You;</hi>
+               </l>
+               <l>My fixt Love hangs not on your Love or Hate;</l>
+               <l>But will be ſtill the ſame, whate're you do.</l>
+               <l>You cannot kill my Love with your diſdain,</l>
+               <l>Wound it you may, and make it live in pain.</l>
+            </lg>
+            <closer>
+               <signed>JAMES SEG<g ref="char:V">Ʋ</g>IN.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
